@@ -1,0 +1,73 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Files built by Visual Studio
+*.dbmdl
+*.bak
+*.backup
+*.log
+
+# IIS Express
+.vsconfig
+.vs/
+*.vspscc
+*.vssscc
+*.cache
+*.pdb
+*.db
+*.appsettings.json
+
+# Configuration
+appsettings.*.json
+
+# dotnet tools
+**/.tools/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+
+# Coverage reports
+coverage/
+*.lcov
+
+# JetBrains Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# NLog logs (optional, if using NLog and log files are created locally)
+logs/
+*.log
+
+# Others
+*.DS_Store
+Thumbs.db
